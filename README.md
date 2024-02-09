@@ -20,4 +20,5 @@ npm install
 npm run dev
 ```
 
-Acesse http://localhost:5173 para visualizar a aplicação.  (Recomendo a utilização do Chrome como navegador padrão)
+Acesse http://localhost:5173 para visualizar a aplicação.  
+(Recomendo a utilização do Chrome como navegador padrão)
